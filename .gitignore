@@ -1,0 +1,13 @@
+*.log
+*.pot
+*.pyc
+__pycache__
+db.sqlite3
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
