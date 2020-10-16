@@ -10,7 +10,7 @@ How to use:-
 1. Make python virtualenv
 2. git clone https://github.com/savish28/Querytube.git
 3. cd Querytube
-4. pip install r - requirements.txt
+4. pip install -r requirements.txt
 5. python manage.py makemigrations
 6. python manage.py migrate
 7. python manage.py runserver
